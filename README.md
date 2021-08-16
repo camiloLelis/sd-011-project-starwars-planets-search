@@ -66,16 +66,6 @@ Este repositório já contém um _template_ de uma aplicação React criado e co
 
 ---
 
-## Data de entrega
-
-  - Projeto individual.
-
-  - Serão `2` dias de projeto.
-  
-  - Data de entrega para avaliação final do projeto: `03/08/2021 - 14:00h`.
-
----
-
 # Instruções para entregar seu projeto:
 
 ## Antes de começar a desenvolver
